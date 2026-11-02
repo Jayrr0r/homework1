@@ -1,0 +1,31 @@
+#green{ 
+   color: green;
+   text-align: center;
+   font-family: sans-serif;
+      }
+table {
+         width: 75%;
+         border-collapse: collapse;
+         margin-bottom: 12px;
+         text-align: left;
+         font-weight: normal;
+      }
+th, td {
+   border: 1px solid black;
+   font-size: 12px;
+   font-weight: normal;
+}
+p {
+    font-family: sans-serif;
+}
+li {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+#sanserif {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+#center {
+    text-align: center;
+}
